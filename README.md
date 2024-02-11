@@ -1,5 +1,5 @@
 - 👋 hi there! i'm Alyssa Simon and my pronouns are she/her.
-- 🏫 i'm currently a student at New Jersey City University majoring in computer science and minoring in computer and information systems.
+- 🏫 i'm currently a student at New Jersey City University majoring in computer science.
 - 💻 i'm an aspiring full-stack developer!
 - 🌱 i'm currently strengthening my backend skills within web development.
 - 📫 reach me through my email -- alyssasimon519@gmail.com
