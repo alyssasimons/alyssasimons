@@ -1,5 +1,5 @@
 - 👋 hi there! i'm Alyssa Simon and my pronouns are she/her.
 - 🏫 i'm a recent computer science graduate from New Jersey City University.
 - 💻 i'm an aspiring full-stack web developer!
-- 🌱 i'm currently creating various web development projects!
+- 🌱 i'm currently learning React!
 - 📫 want to get in touch? -> email: alyssasimon519@gmail.com | linkedin: https://www.linkedin.com/in/alyssasimon/
